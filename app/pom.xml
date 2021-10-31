@@ -122,7 +122,7 @@
 				<configuration>
 					<url>jdbc:mysql://db:3306/docker_to_aws_with_java?useTimezone=true&amp;serverTimezone=UTC&amp;useSSL=false</url>
 					<user>docker</user>
-					<password>docker123</password>
+					<password>docker</password>
 				</configuration>
 				<dependencies>
 					<dependency>
